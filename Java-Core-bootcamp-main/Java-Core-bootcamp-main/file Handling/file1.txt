@@ -1,0 +1,2 @@
+DevOps is a cultural and professional movement aimed at bridging the gap between software development (Dev) and IT operations (Ops).
+ The aim is to ensure high-quality software delivery with high business value while reducing time to market and increasing operational efficiency
